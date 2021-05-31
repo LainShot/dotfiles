@@ -1,0 +1,5 @@
+echo "Installing vim"
+brew install vim-gtk
+echo "setting up vimrc file"
+cp ./.vimrc $HOME
+echo "done"

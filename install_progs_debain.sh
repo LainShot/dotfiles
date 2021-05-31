@@ -33,5 +33,5 @@ sudo apt install -y nmap
 echo "installing binwalk"
 sudo apt install -y binwalk
 echo "installing Binutils"
-sudo apt install -y Binutils
+sudo apt install -y binutils-common
 echo "DONE"

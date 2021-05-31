@@ -29,9 +29,9 @@ sudo install -y firefox
 echo "installing linux-headers"
 sudo apt install linux-headers-$(uname -r)
 echo "installing nmap"
-sudo apt install nmap
+sudo apt install -y nmap
 echo "installing binwalk"
-sudo apt install binwalk
-echo "installing obj dump"
-sudo apt install objdump
+sudo apt install -y binwalk
+echo "installing Binutils"
+sudo apt install -y Binutils
 echo "DONE"

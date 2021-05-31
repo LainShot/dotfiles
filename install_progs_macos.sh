@@ -4,7 +4,7 @@ echo "|  |__|     | |   |__   |   | . | | |  "
 echo "|_____|__|__|_|_|_|_____|_|_|___| |_|  "
 echo "                                       "
 echo "======================================="
-echo "as you are on a mac we will set up ohmysh
+echo "as you are on a mac we will set up ohmysh"
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 echo " now we will need to setup brew as we have no apt or pacman on macos"
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"

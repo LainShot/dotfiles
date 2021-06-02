@@ -1,8 +1,9 @@
 # dotfiles
-All my configs and stuff...
+All my configs and stuff... replace the **** with the OS.
 
-- install_progs_debain.sh - installs all of my programs on debian/ubuntu
+- install_progs_******.sh - installs all of my programs.
 
+- setup_vim_******.sh - installs vim and sets up .vimrc
 
-- setup_vim_debian.sh - installs vim and sets up .vimrc
+- setup_tmux_******.sh - installs tmux and sets up my tmux config. 
 

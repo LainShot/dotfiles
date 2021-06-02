@@ -9,3 +9,12 @@ I run ubuntu LTS builds on my workstation and Mac OS on my laptop. I have used o
 
 - setup_tmux_******.sh - installs tmux and sets up my tmux config. 
 
+
+These will work on other distros you will just have to update to use the right package manger such as pacman or yum, but I will leave that to you to fork if you wish and make the changes for your needs. I only update this for my current operating systems but will leave older ones in there in case I swap back. 
+
+The only configs that are not in here are my openvms configs such as my @login.com file, as this contains infomation that can not be shared with the public. 
+
+I doubt many of you use openvms anyway, or even know what it is. 
+
+Have Fun!
+

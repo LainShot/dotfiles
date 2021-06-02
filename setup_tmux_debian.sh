@@ -1,5 +1,5 @@
 echo "Installing tmux"
 sudo apt install tmux
-echo "setting up tmux file"
+echo "setting up tmux config file"
 cp ./.tmux.conf $HOME
-echo "done"
+echo "done you can now use tmux"

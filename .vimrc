@@ -9,3 +9,9 @@ set ruler
 highlight Comment ctermfg=green
 set clipboard=unnamedplus
 set number relativenumber
+
+"Automatic vertical centering
+augroup KeepCentered
+  autocmd!
+  autocmd CursorMoved * normal! zz
+augroup END
